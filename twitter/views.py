@@ -7,7 +7,7 @@ from textblob import TextBlob
 from operator import itemgetter
 from matplotlib.figure import Figure
 import io
-import matplotlib.pyplot as plt;
+import matplotlib.pyplot as plt
 
 plt.rcdefaults()
 
